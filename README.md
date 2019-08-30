@@ -17,3 +17,93 @@ Here are the PDFs of my major scientific publications. For details, see my [Goog
 * K. M. Krawczyk, R. L. Field, **L. Liu**, M. Dong, A. Woolley, and R. J. D. Miller, "Illuminating the Photoisomerization of a Modified Azobenzene Single Crystal by Femtosecond Absorption Spectroscopy," [*Can. J. Chem.*](https://www.nrcresearchpress.com/journal/cjc), vol. 97, pp. 488–495, 2019, doi: [10.1139/cjc-2018-0461](https://doi.org/10.1139/cjc-2018-0461).
 
 * Y. Jiang, **L. Liu**, K. M. Krawczyk, A. Sarracini, J. S. Wentzell, Cheng Lu, R. L. Field, S. F. Matar, W. Gawelda, H. M. Müller-Werkmeister, and R. J. D. Miller, "Direct Observation of Nuclear Reorganization Driven by Ultrafast Spin Transitions," 2019 (under review).
+
+## BibTex References
+
+```bibtex
+@article{Gao2013,
+  author  = {Meng Gao and Cheng Lu and Hubert Jean-Ruel and LaiChung Liu and Alexander Marx and Ken Onda
+              and Shin-Ya Koshihara and Yoshiaki Nakano and Xiangfeng Shao and Takaaki Hiramatsu and Gunzi Saito and Hideki Yamochi
+              and Ryan R. Cooney and Gustavo Moriena and Germ{\'{a}}n Sciaini and R. J. Dwayne Miller},
+  journal = {Nature},
+  pages   = {343--346},
+  title   = {{Mapping Molecular Motions Leading to Charge Delocalization with Ultrabright Electrons}},
+  volume  = {496},
+  year    = {2013}
+}
+
+@article{Jean-Ruel2013,
+  author  = {Hubert Jean-Ruel and Meng Gao and Michal A. Kochman and Cheng Lu and LaiChung Liu 
+              and Ryan R. Cooney and Carole A. Morrison and R. J. Dwayne Miller},
+  journal = {J. Phys. Chem. B},
+  pages   = {15894--15902},
+  title   = {{Ring-Closing Reaction in Diarylethene Captured by Femtosecond Electron Crystallography}},
+  volume  = {117},
+  year    = {2013}
+}
+
+@article{Manz2015,
+  author  = {Stephanie Manz and Albert Casandruc and Dongfang Zhang and Yinpeng Zhong
+              and Rolf A. Loch and Alexander Marx and Taisuke Hasegawa and LaiChung Liu 
+              and Shima Bayesteh and Hossein Delsim-Hashemi and Matthias C. Hoffmann 
+              and Matthias Felber and Hachmann, Max and Frank Mayet and Julian Hirscht 
+              and Sercan Keskin and Masaki Hada and Sascha W. Epp and Klaus Fl\"{o}ttmann 
+              and R. J. Dwayne Miller},
+  journal = {Faraday Discuss.},
+  pages   = {467--491},
+  title   = {{Mapping Atomic Motions with Ultrabright Electrons: Towards Fundamental Limits in Space-Time Resolution}},
+  volume  = {177},
+  year    = {2015}
+}
+
+@article{Field2016,
+  author  = {Ryan L. Field and LaiChung Liu and Wojciech Gawelda and Cheng Lu and R. J. Dwayne Miller},
+  journal = {Chem. Eur. J.},
+  pages   = {5118--5122},
+  title   = {{Spectral Signatures of Ultrafast Spin Crossover in Single Crystal
+              [Fe\textsuperscript{II}(bpy)\textsubscript{3}](PF\textsubscript{6})\textsubscript{2}}},
+  volume  = {22},
+  year    = {2016}
+}
+
+@article{Jiang2017,
+  author = {Yifeng Jiang and LaiChung Liu and Henrike M. M\"{u}ller-Werkmeister 
+            and Cheng Lu and Dongfang Zhang and Ryan L. Field and Antoine Sarracini 
+            and Gustavo Moriena and Eric Collet and R. J. Dwayne Miller},
+  journal = {Angew. Chem. Int. Ed.},
+  pages   = {7130--7134},
+  title   = {{Structural Dynamics upon Photoexcitation in a Spin Crossover Crystal Probed with Femtosecond Electron Diffraction}},
+  volume  = {56},
+  year    = {2017}
+}
+
+@article{Liu2017,
+  author  = {LaiChung Liu and Yifeng Jiang and Henrike M. M\"{u}ller-Werkmeister and Cheng Lu
+              and Gustavo Moriena and Manabu Ishikawa and Yoshiaki Nakano and Hideki Yamochi and R. J. Dwayne Miller},
+  journal = {Chem. Phys. Lett.},
+  pages   = {160--165},
+  title   = {{Ultrafast Electron Diffraction Study of Single-Crystal (EDO-TTF)\textsubscript{2}SbF\textsubscript{6}: 
+              Counterion Effect and Dimensionality Reduction}},
+  volume  = {683},
+  year    = {2017}
+}
+
+@article{Kamil2019,
+  author  = {Kamil M. Krawczyk and Ryan L. Field and LaiChung Liu and Mingxin Dong and G. Andrew Woolley and R. J. Dwayne Miller},
+  journal = {Can. J. Chem.},
+  pages   = {488--495}
+  title   = {{Illuminating the Photoisomerization of a Modified Azobenzene Single Crystal 
+            by Femtosecond Absorption Spectroscopy}},
+  volume  = {97},
+  year    = {2019},
+}
+
+@article{Jiang2019,
+  author = {Yifeng Jiang and LaiChung Liu and Kamil M. Krawczyk and Antoine Sarracini
+            and Jordan S. Wentzell and Cheng Lu and Ryan L. Field and Samir F. Matar and  Wojciech Gawelda
+            and Henrike M. M\"{u}ller-Werkmeister and R. J. Dwayne Miller},
+  title  = {{Direct Observation of Nuclear Reorganization Driven by Ultrafast Spin Transitions}},
+  year   = {2019},
+  note   = {(under consideration)}
+}
+```
