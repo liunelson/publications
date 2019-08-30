@@ -104,6 +104,6 @@ Here are the PDFs of my major scientific publications. For details, see my [Goog
             and Henrike M. M\"{u}ller-Werkmeister and R. J. Dwayne Miller},
   title  = {{Direct Observation of Nuclear Reorganization Driven by Ultrafast Spin Transitions}},
   year   = {2019},
-  note   = {(under consideration)}
+  note   = {(under review)}
 }
 ```
