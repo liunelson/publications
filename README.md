@@ -18,7 +18,7 @@ Here are the PDFs of my major scientific publications. For details, see my [Goog
 
 * Y. Jiang, **L. Liu**, K. M. Krawczyk, A. Sarracini, J. S. Wentzell, Cheng Lu, R. L. Field, S. F. Matar, W. Gawelda, H. M. Müller-Werkmeister, and R. J. D. Miller, "Direct Observation of Nuclear Reorganization Driven by Ultrafast Spin Transitions," 2019 (under review).
 
-## BibTex References
+## [BibTeX](http://www.bibtex.org) References
 
 ```bibtex
 @article{Gao2013,
