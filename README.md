@@ -16,7 +16,7 @@ Here are the PDFs of my major scientific publications. For details, see my [Goog
 
 * K. M. Krawczyk, R. L. Field, **L. Liu**, M. Dong, A. Woolley, and R. J. D. Miller, "Illuminating the Photoisomerization of a Modified Azobenzene Single Crystal by Femtosecond Absorption Spectroscopy," [*Can. J. Chem.*](https://www.nrcresearchpress.com/journal/cjc), vol. 97, pp. 488–495, 2019, doi: [10.1139/cjc-2018-0461](https://doi.org/10.1139/cjc-2018-0461).
 
-* Y. Jiang, **L. Liu**, K. M. Krawczyk, A. Sarracini, J. S. Wentzell, Cheng Lu, R. L. Field, S. F. Matar, W. Gawelda, H. M. Müller-Werkmeister, and R. J. D. Miller, "Direct Observation of Nuclear Reorganization Driven by Ultrafast Spin Transitions," 2019 (under review).
+* Y. Jiang, **L. Liu**, K. M. Krawczyk, A. Sarracini, J. S. Wentzell, Cheng Lu, R. L. Field, S. F. Matar, W. Gawelda, H. M. Müller-Werkmeister, and R. J. D. Miller, "Direct Observation of Nuclear Reorganization Driven by Ultrafast Spin Transitions," [*Nat. Commun.*](https://www.nature.com/ncomms/), vol. 11, pp. 1–8, 2020, doi: [10.1038/s41467-020-15187-y](https://doi.org/10.1038/s41467-020-15187-y).
 
 ## [BibTeX](http://www.bibtex.org) References
 
