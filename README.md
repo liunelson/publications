@@ -44,10 +44,8 @@ Here is a list of my academic publications with BibTeX citation. For details, se
 </td>
 </tr>
 <tr>
-<td><a href="https://doi.org/10.1038/nature12044">10.1038/nature12044</a></td>
-<td><a href="2013-nature.pdf">2013-nature.pdf</a></td>
-<td> S. Manz, A. Casandruc, D. Zhang, Y. Zhong, R. A. Loch, A. Marx, T. Hasegawa, **L. Liu**, S. Bayesteh, H. Delsim-Hashemi, M. Hoffmann, M. Felber, M. Hachmann, F. Mayet, J. Hirscht, S. Keskin, M. Hada, S. W. Epp, K. Flöttmann, and R. J. D. Miller, "Mapping Atomic Motions with Ultrabright Electrons: Towards Fundamental Limits in Space-Time Resolution," [*Farad. Discuss.*](https://pubs.rsc.org/en/journals/journalissues/fd), vol. 177, pp. 467–491, 2015, doi: [10.1039/c4fd00204k](https://doi.org/10.1039/c4fd00204k).
-</td>
+<td><a href="https://doi.org/10.1039/c4fd00204k">10.1039/c4fd00204k</a></td>
+<td><a href="2015-faraday.pdf">2015-faraday.pdf</a></td>
 <td>
     
 ```bibtex
@@ -69,10 +67,8 @@ Here is a list of my academic publications with BibTeX citation. For details, se
 </td>
 </tr>
 <tr>
-<td><a href="https://doi.org/10.1038/nature12044">10.1038/nature12044</a></td>
-<td><a href="2013-nature.pdf">2013-nature.pdf</a></td>
-<td> R. L. Field, **L. Liu**, W. Gawelda, C. Lu, R. J. D. Miller, "Spectral Signatures of Ultrafast Spin Crossover in Single Crystal \[Fe<sup>II</sup>(bpy)<sub>3</sub>\](PF<sub>6</sub>)<sub>2</sub>," [*Chem. Eur. J.*](https://onlinelibrary.wiley.com/journal/15213765), vol. 22, pp. 5118–5122, 2016, doi: [10.1002/chem.201600374](https://doi.org/10.1002/chem.201600374).
-</td>
+<td><a href="https://doi.org/10.1002/chem.201600374">10.1002/chem.201600374</a></td>
+<td><a href="2016-chemeurj.pdf">2016-chemeurj.pdf</a></td>
 <td>
     
 ```bibtex
@@ -90,10 +86,8 @@ Here is a list of my academic publications with BibTeX citation. For details, se
 </td>
 </tr>
 <tr>
-<td><a href="https://doi.org/10.1038/nature12044">10.1038/nature12044</a></td>
-<td><a href="2013-nature.pdf">2013-nature.pdf</a></td>
-<td> Y. Jiang, **L. Liu**, H. M. Müller-Werkmeister, C. Lu, D. Zhang, R. L. Field, A. Sarracini, G. Moriena, E. Collet, and R. J. D. Miller, "Structural Dynamics upon Photoexcitation in a Spin Crossover Crystal Probed with Femtosecond Electron Diffraction," [*Ang. Chem. Int. Ed.*](https://onlinelibrary.wiley.com/journal/15213773), vol. 56, pp. 7130–7134, 2017, doi: [10.1002/anie.201702497](https://doi.org/10.1002/anie.201702497).
-</td>
+<td><a href="https://doi.org/10.1002/anie.201702497">10.1002/anie.201702497</a></td>
+<td><a href="2017-angewchem.pdf">2017-anggewchem.pdf</a></td>
 <td>
     
 ```bibtex
@@ -112,10 +106,8 @@ Here is a list of my academic publications with BibTeX citation. For details, se
 </td>
 </tr>
 <tr>
-<td><a href="https://doi.org/10.1038/nature12044">10.1038/nature12044</a></td>
-<td><a href="2013-nature.pdf">2013-nature.pdf</a></td>
-<td> **L. Liu**, Y. Jiang, H. M. Müller-Werkmeister, C. Lu, G. Moriena, M. Ishikawa, Y. Nakano, H. Yamochi, and R. J. D. Miller, "Ultrafast Electron Diffraction Study of Single-Crystal (EDO-TTF)<sub>2</sub>SbF<sub>6</sub>: Counterion Effect and Dimensionality Reduction," [*Chem. Phys. Lett.*](https://www.sciencedirect.com/journal/chemical-physics-letters), vol. 683, pp. 160–165, 2017, doi: [10.1016/j.cplett.2017.05.007](https://doi.org/10.1016/j.cplett.2017.05.007).
-</td>
+<td><a href="https://doi.org/10.1016/j.cplett.2017.05.007">10.1016/j.cplett.2017.05.007</a></td>
+<td><a href="2017-chemphyslett.pdf">2017-chemphyslett.pdf</a></td>
 <td>
     
 ```bibtex
@@ -134,10 +126,8 @@ Here is a list of my academic publications with BibTeX citation. For details, se
 </td>
 </tr>
 <tr>
-<td><a href="https://doi.org/10.1038/nature12044">10.1038/nature12044</a></td>
-<td><a href="2013-nature.pdf">2013-nature.pdf</a></td>
-<td> K. M. Krawczyk, R. L. Field, **L. Liu**, M. Dong, A. Woolley, and R. J. D. Miller, "Illuminating the Photoisomerization of a Modified Azobenzene Single Crystal by Femtosecond Absorption Spectroscopy," [*Can. J. Chem.*](https://www.nrcresearchpress.com/journal/cjc), vol. 97, pp. 488–495, 2019, doi: [10.1139/cjc-2018-0461](https://doi.org/10.1139/cjc-2018-0461).
-</td>
+<td><a href="https://doi.org/10.1139/cjc-2018-0461">10.1139/cjc-2018-0461</a></td>
+<td><a href="2019-cjc.pdf">2019-cjc.pdf</a></td>
 <td>
     
 ```bibtex
@@ -156,10 +146,8 @@ Here is a list of my academic publications with BibTeX citation. For details, se
 </td>
 </tr>
 <tr>
-<td><a href="https://doi.org/10.1038/nature12044">10.1038/nature12044</a></td>
-<td><a href="2013-nature.pdf">2013-nature.pdf</a></td>
-<td> Y. Jiang, **L. Liu**, K. M. Krawczyk, A. Sarracini, J. S. Wentzell, Cheng Lu, R. L. Field, S. F. Matar, W. Gawelda, H. M. Müller-Werkmeister, and R. J. D. Miller, "Direct Observation of Nuclear Reorganization Driven by Ultrafast Spin Transitions," [*Nat. Commun.*](https://www.nature.com/ncomms/), vol. 11, p. 1530, 2020, doi: [10.1038/s41467-020-15187-y](https://doi.org/10.1038/s41467-020-15187-y).
-</td>
+<td><a href="https://doi.org/10.1038/s41467-020-15187-y">10.1038/s41467-020-15187-y</a></td>
+<td><a href="2013-nature.pdf">2020-natcommun.pdf</a></td>
 <td>
     
 ```bibtex
@@ -178,12 +166,12 @@ Here is a list of my academic publications with BibTeX citation. For details, se
 </td>
 </tr>
 <tr>
-<td><a href="https://doi.org/10.1038/nature12044">10.1038/nature12044</a></td>
-<td><a href="2013-nature.pdf">2013-nature.pdf</a></td>
+<td><a href="https://doi.org/10.1109/VAHC53616.2021.00010">10.1109/VAHC53616.2021.00010</a></td>
+<td><a href="2021-2109.06828v2.pdf.pdf">2021-2109.06828v2.pdf</a></td>
 <td> 
 F. Husain, R. Romero-Gómez, E. Kuang, D. Segura, A. Carolli, **L. Liu**, M. Cheung, and Y. Paris, 
 "A Multi-Scale Visual Analytics Approach for Exploring Biomedical Knowledge,"
-[2021 IEEE Workshop on Visual Analytics in Healthcare (VAHC)](https://ieeexplore.ieee.org/xpl/conhome/9622896/proceeding), pp. 30–35, 2021, doi: [10.1109/VAHC53616.2021.00010](https://doi.org/10.1109/VAHC53616.2021.00010).
+[2021 IEEE Workshop on Visual Analytics in Healthcare (VAHC)](https://ieeexplore.ieee.org/xpl/conhome/9622896/proceeding), pp. 30–35, 2021, doi: []().
 </td>
 <td>
     
