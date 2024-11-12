@@ -168,11 +168,6 @@ Here is a list of my academic publications with BibTeX citation. For details, se
 <tr>
 <td><a href="https://doi.org/10.1109/VAHC53616.2021.00010">10.1109/VAHC53616.2021.00010</a></td>
 <td><a href="2021-2109.06828v2.pdf.pdf">2021-2109.06828v2.pdf</a></td>
-<td> 
-F. Husain, R. Romero-Gómez, E. Kuang, D. Segura, A. Carolli, **L. Liu**, M. Cheung, and Y. Paris, 
-"A Multi-Scale Visual Analytics Approach for Exploring Biomedical Knowledge,"
-[2021 IEEE Workshop on Visual Analytics in Healthcare (VAHC)](https://ieeexplore.ieee.org/xpl/conhome/9622896/proceeding), pp. 30–35, 2021, doi: []().
-</td>
 <td>
     
 ```bibtex
