@@ -7,6 +7,8 @@ Here is a list of my academic publications with BibTeX citation. For details, se
 <td>BibTeX</td><td>DOI</td><td>Filename</td>
 </tr>
 <tr>
+<td><a href="https://doi.org/10.1038/nature12044">10.1038/nature12044</a></td>
+<td><a href="2013-nature.pdf">2013-nature.pdf</a></td>
 <td>
     
 ```bibtex
@@ -23,8 +25,6 @@ Here is a list of my academic publications with BibTeX citation. For details, se
 ```
 
 </td>
-<td><a href="https://doi.org/10.1038/nature12044">10.1038/nature12044</a></td>
-<td><a href="2013-nature.pdf">2013-nature.pdf</a></td>
 </tr>
 <tr>
 <td> H. Jean-Ruel, M. Gao, M. A. Kochman, C. Lu, **L. Liu**, R. R. Cooney, C. A. Morrison, and R. J. D. Miller, "Ring-Closing Reaction in Diarylethene Captured by Femtosecond Electron Crystallography," [*J. Phys. Chem. B*](https://pubs.acs.org/journal/jpcbfk), vol. 117, pp. 15894–15902, 2013, doi: [10.1021/jp409245h](https://doi.org/10.1021/jp409245h).
