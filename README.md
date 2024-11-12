@@ -1,6 +1,8 @@
 # Publications of Lai Chung Liu
 
-Here is a list of my academic publications with BibTeX citation. For details, see my [Google Scholar profile](https://scholar.google.ca/citations?user=zbmE0IIAAAAJ) or [ORCID profile](https://orcid.org/0000-0002-7775-5933).
+Here is a list of my academic publications with BibTeX citation. 
+For details, see my [Google Scholar](https://scholar.google.ca/citations?user=zbmE0IIAAAAJ) 
+or [ORCID](https://orcid.org/0000-0002-7775-5933) profiles.
 
 <table>
 <tr><td>DOI</td><td>Filename</td><td>BibTeX</td></tr>
