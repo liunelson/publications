@@ -50,15 +50,20 @@ Here is a list of my academic publications with BibTeX citation. For details, se
     
 ```bibtex
 @article{Manz2015,
-  author  = {Stephanie Manz and Albert Casandruc and Dongfang Zhang and Yinpeng Zhong
-              and Rolf A. Loch and Alexander Marx and Taisuke Hasegawa and LaiChung Liu 
-              and Shima Bayesteh and Hossein Delsim-Hashemi and Matthias C. Hoffmann 
-              and Matthias Felber and Hachmann, Max and Frank Mayet and Julian Hirscht 
-              and Sercan Keskin and Masaki Hada and Sascha W. Epp and Klaus Fl\"{o}ttmann 
-              and R. J. Dwayne Miller},
+  author  = {Stephanie Manz and Albert Casandruc 
+              and Dongfang Zhang and Yinpeng Zhong
+              and Rolf A. Loch and Alexander Marx 
+              and Taisuke Hasegawa and LaiChung Liu 
+              and Shima Bayesteh and Hossein Delsim-Hashemi 
+              and Matthias C. Hoffmann and Matthias Felber 
+              and Max Hachmann and Frank Mayet 
+              and Julian Hirscht and Sercan Keskin 
+              and Masaki Hada and Sascha W. Epp 
+              and Klaus Fl\"{o}ttmann and R. J. Dwayne Miller},
   journal = {Faraday Discuss.},
   pages   = {467--491},
-  title   = {{Mapping Atomic Motions with Ultrabright Electrons: Towards Fundamental Limits in Space-Time Resolution}},
+  title   = {{Mapping Atomic Motions with Ultrabright Electrons: 
+              Towards Fundamental Limits in Space-Time Resolution}},
   volume  = {177},
   year    = {2015}
 }
@@ -73,10 +78,13 @@ Here is a list of my academic publications with BibTeX citation. For details, se
     
 ```bibtex
 @article{Field2016,
-  author  = {Ryan L. Field and LaiChung Liu and Wojciech Gawelda and Cheng Lu and R. J. Dwayne Miller},
+  author  = {Ryan L. Field and LaiChung Liu 
+              and Wojciech Gawelda and Cheng Lu 
+              and R. J. Dwayne Miller},
   journal = {Chem. Eur. J.},
   pages   = {5118--5122},
-  title   = {{Spectral Signatures of Ultrafast Spin Crossover in Single Crystal
+  title   = {{Spectral Signatures of Ultrafast Spin Crossover 
+              in Single Crystal
               [Fe\textsuperscript{II}(bpy)\textsubscript{3}](PF\textsubscript{6})\textsubscript{2}}},
   volume  = {22},
   year    = {2016}
@@ -92,12 +100,17 @@ Here is a list of my academic publications with BibTeX citation. For details, se
     
 ```bibtex
 @article{Jiang2017,
-  author = {Yifeng Jiang and LaiChung Liu and Henrike M. M\"{u}ller-Werkmeister 
-            and Cheng Lu and Dongfang Zhang and Ryan L. Field and Antoine Sarracini 
-            and Gustavo Moriena and Eric Collet and R. J. Dwayne Miller},
+  author = {Yifeng Jiang and LaiChung Liu 
+              and Henrike M. M\"{u}ller-Werkmeister 
+              and Cheng Lu and Dongfang Zhang 
+              and Ryan L. Field and Antoine Sarracini 
+              and Gustavo Moriena and Eric Collet 
+              and R. J. Dwayne Miller},
   journal = {Angew. Chem. Int. Ed.},
   pages   = {7130--7134},
-  title   = {{Structural Dynamics upon Photoexcitation in a Spin Crossover Crystal Probed with Femtosecond Electron Diffraction}},
+  title   = {{Structural Dynamics upon Photoexcitation 
+              in a Spin Crossover Crystal Probed 
+              with Femtosecond Electron Diffraction}},
   volume  = {56},
   year    = {2017}
 }
@@ -112,11 +125,16 @@ Here is a list of my academic publications with BibTeX citation. For details, se
     
 ```bibtex
 @article{Liu2017,
-  author  = {LaiChung Liu and Yifeng Jiang and Henrike M. M\"{u}ller-Werkmeister and Cheng Lu
-              and Gustavo Moriena and Manabu Ishikawa and Yoshiaki Nakano and Hideki Yamochi and R. J. Dwayne Miller},
+  author  = {LaiChung Liu and Yifeng Jiang 
+              and Henrike M. M\"{u}ller-Werkmeister 
+              and Cheng Lu and Gustavo Moriena 
+              and Manabu Ishikawa and Yoshiaki Nakano 
+              and Hideki Yamochi and R. J. Dwayne Miller},
   journal = {Chem. Phys. Lett.},
   pages   = {160--165},
-  title   = {{Ultrafast Electron Diffraction Study of Single-Crystal (EDO-TTF)\textsubscript{2}SbF\textsubscript{6}: 
+  title   = {{Ultrafast Electron Diffraction Study 
+              of Single-Crystal 
+              (EDO-TTF)\textsubscript{2}SbF\textsubscript{6}: 
               Counterion Effect and Dimensionality Reduction}},
   volume  = {683},
   year    = {2017}
@@ -132,11 +150,14 @@ Here is a list of my academic publications with BibTeX citation. For details, se
     
 ```bibtex
 @article{Kamil2019,
-  author  = {Kamil M. Krawczyk and Ryan L. Field and LaiChung Liu and Mingxin Dong and G. Andrew Woolley and R. J. Dwayne Miller},
+  author  = {Kamil M. Krawczyk and Ryan L. Field 
+              and LaiChung Liu and Mingxin Dong 
+              and G. Andrew Woolley and R. J. Dwayne Miller},
   journal = {Can. J. Chem.},
   pages   = {488--495}
-  title   = {{Illuminating the Photoisomerization of a Modified Azobenzene Single Crystal 
-            by Femtosecond Absorption Spectroscopy}},
+  title   = {{Illuminating the Photoisomerization 
+              of a Modified Azobenzene Single Crystal 
+              by Femtosecond Absorption Spectroscopy}},
   volume  = {97},
   year    = {2019},
 }
@@ -147,15 +168,19 @@ Here is a list of my academic publications with BibTeX citation. For details, se
 </tr>
 <tr>
 <td><a href="https://doi.org/10.1038/s41467-020-15187-y">10.1038/s41467-020-15187-y</a></td>
-<td><a href="2013-nature.pdf">2020-natcommun.pdf</a></td>
+<td><a href="2020-natcommun.pdf">2020-natcommun.pdf</a></td>
 <td>
     
 ```bibtex
-@article{Jiang2019,
-  author  = {Yifeng Jiang and LaiChung Liu and Kamil M. Krawczyk and Antoine Sarracini
-            and Jordan S. Wentzell and Cheng Lu and Ryan L. Field and Samir F. Matar and  Wojciech Gawelda
-            and Henrike M. M\"{u}ller-Werkmeister and R. J. Dwayne Miller},
-  title   = {{Direct Observation of Nuclear Reorganization Driven by Ultrafast Spin Transitions}},
+@article{Jiang2020,
+  author  = {Yifeng Jiang and LaiChung Liu 
+              and Kamil M. Krawczyk and Antoine Sarracini
+              and Jordan S. Wentzell and Cheng Lu 
+              and Ryan L. Field and Samir F. Matar 
+              and Wojciech Gawelda and Henrike M. M\"{u}ller-Werkmeister 
+              and R. J. Dwayne Miller},
+  title   = {{Direct Observation of Nuclear Reorganization 
+                Driven by Ultrafast Spin Transitions}},
   journal = {Nat. Commun.},
   volume  = {11},
   pages   = {1530},
@@ -167,14 +192,19 @@ Here is a list of my academic publications with BibTeX citation. For details, se
 </tr>
 <tr>
 <td><a href="https://doi.org/10.1109/VAHC53616.2021.00010">10.1109/VAHC53616.2021.00010</a></td>
-<td><a href="2021-2109.06828v2.pdf.pdf">2021-2109.06828v2.pdf</a></td>
+<td><a href="2021-vahc.pdf.pdf">2021-vahc.pdf</a></td>
 <td>
     
 ```bibtex
 @INPROCEEDINGS{Husain2021,
-  author    = {Fahd Husain and Rosa Romero-G\'{o}mez and Emily Kuang and Dario Segura and Adamo Carolli and Lai Chung Liu and Manfred Cheung and Yohann Paris},
-  booktitle = {2021 IEEE Workshop on Visual Analytics in Healthcare (VAHC)}, 
-  title     = {A Multi-Scale Visual Analytics Approach for Exploring Biomedical Knowledge}, 
+  author    = {Fahd Husain and Rosa Romero-G\'{o}mez 
+                and Emily Kuang and Dario Segura 
+                and Adamo Carolli and Lai Chung Liu 
+                and Manfred Cheung and Yohann Paris},
+  booktitle = {2021 IEEE Workshop on 
+                Visual Analytics in Healthcare}, 
+  title     = {A Multi-Scale Visual Analytics Approach 
+                for Exploring Biomedical Knowledge}, 
   year      = {2021},
   pages     = {30-35},
   doi       = {10.1109/VAHC53616.2021.00010}}
