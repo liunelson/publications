@@ -11,12 +11,18 @@ Here is a list of my academic publications with BibTeX citation. For details, se
     
 ```bibtex
 @article{Gao2013,
-  author  = {Meng Gao and Cheng Lu and Hubert Jean-Ruel and LaiChung Liu and Alexander Marx and Ken Onda
-              and Shin-Ya Koshihara and Yoshiaki Nakano and Xiangfeng Shao and Takaaki Hiramatsu and Gunzi Saito and Hideki Yamochi
-              and Ryan R. Cooney and Gustavo Moriena and Germ{\'{a}}n Sciaini and R. J. Dwayne Miller},
+  author  = {Meng Gao and Cheng Lu and Hubert Jean-Ruel 
+              and LaiChung Liu and Alexander Marx and Ken Onda
+              and Shin-Ya Koshihara and Yoshiaki Nakano 
+              and Xiangfeng Shao and Takaaki Hiramatsu 
+              and Gunzi Saito and Hideki Yamochi
+              and Ryan R. Cooney and Gustavo Moriena 
+              and Germ{\'{a}}n Sciaini and R. J. Dwayne Miller},
   journal = {Nature},
   pages   = {343--346},
-  title   = {{Mapping Molecular Motions Leading to Charge Delocalization with Ultrabright Electrons}},
+  title   = {{Mapping Molecular Motions Leading 
+              to Charge Delocalization 
+              with Ultrabright Electrons}},
   volume  = {496},
   year    = {2013}
 }
@@ -31,11 +37,14 @@ Here is a list of my academic publications with BibTeX citation. For details, se
     
 ```bibtex
 @article{Jean-Ruel2013,
-  author  = {Hubert Jean-Ruel and Meng Gao and Michal A. Kochman and Cheng Lu and LaiChung Liu 
-              and Ryan R. Cooney and Carole A. Morrison and R. J. Dwayne Miller},
+  author  = {Hubert Jean-Ruel and Meng Gao 
+              and Michal A. Kochman and Cheng Lu 
+              and LaiChung Liu and Ryan R. Cooney 
+              and Carole A. Morrison and R. J. Dwayne Miller},
   journal = {J. Phys. Chem. B},
   pages   = {15894--15902},
-  title   = {{Ring-Closing Reaction in Diarylethene Captured by Femtosecond Electron Crystallography}},
+  title   = {{Ring-Closing Reaction in Diarylethene Captured 
+              by Femtosecond Electron Crystallography}},
   volume  = {117},
   year    = {2013}
 }
